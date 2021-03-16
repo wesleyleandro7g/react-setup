@@ -1,6 +1,6 @@
-import Head from 'next/head'
+import Head from "next/head"
 
-export default function Home() {
+export default function Home  (){
   return (
     <div>
       <Head>
@@ -9,11 +9,11 @@ export default function Home() {
 
       <header>
         Hello Header
-      </header>
+       </header>
 
-      <main>
-        <h1>Hello Word</h1>
-      </main>
+        <main>
+          <h1>Hello Word</h1>
+        </main>
 
       <footer>
         Hello Footer
